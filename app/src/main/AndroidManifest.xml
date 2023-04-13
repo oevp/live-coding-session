@@ -22,6 +22,10 @@
         </activity>
         <activity
             android:name=".ShowWeather"
+            android:label="Show Data">
+        </activity>
+        <activity
+            android:name=".InsertCoordinates"
             android:label="Insert Data">
         </activity>
     </application>
