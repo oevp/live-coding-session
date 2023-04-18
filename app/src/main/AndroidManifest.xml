@@ -28,6 +28,7 @@
             android:name=".InsertCoordinates"
             android:label="Insert Data">
         </activity>
-    </application>
 
+    </application>
+    <uses-permission android:name="android.permission.INTERNET"/>
 </manifest>
